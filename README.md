@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Fyodor, I'm from Armenis</p>
+<p data-importer="text" align="left">My name is Fyodor, I'm from Armenia</p>
 
 ###
 
