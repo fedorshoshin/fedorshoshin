@@ -21,6 +21,6 @@
 ###
 <h2 data-importer="text" align="left">My personal projects
 </h2>
-<h4 data-importer="text" align="left">Tentiq</h4>
+<h3 data-importer="text" align="left">Tentiq - Full-stack prototype for running campaign-based UX tests</h3>
 https://github.com/fedorshoshin/Tentiq
-
+<h3 data-importer="text" align="left"></h3>
