@@ -21,7 +21,6 @@
 ###
 <h2 data-importer="text" align="left">My personal projects
 </h2>
-<h4 data-importer="text" align="left">
-  Tentiq
-  https://github.com/fedorshoshin/Tentiq
-</h4>
+<h4 data-importer="text" align="left">Tentiq</h4>
+https://github.com/fedorshoshin/Tentiq
+
